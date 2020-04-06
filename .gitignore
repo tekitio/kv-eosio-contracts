@@ -1,0 +1,12 @@
+**.vscode/
+build
+**/CMakeFiles
+**/cmake_install.cmake
+**/Makefile
+**/CMakeCache.txt
+kv_project-prefix
+**/*.wasm
+node_modules
+package-lock.json
+**.DS_Store
+.DS_Store
