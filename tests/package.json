@@ -1,0 +1,10 @@
+{
+  "name": "kvtest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "eoslime": "^1.0.2",
+    "mocha": "^7.1.1"
+  }
+}
